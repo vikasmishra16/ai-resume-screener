@@ -2,7 +2,7 @@
 
 > H3S Model — Hybrid Semantic-Structural Scoring for automated, 
 > bias-reduced candidate ranking.  
-> **Published at IEEE ICCCA 2025** → https://ieeexplore.ieee.org/document/11211694
+> **Published at IEEE ICCCA 2025** → https://ieeexplore.ieee.org/document/11325535
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square)
 ![RoBERTa](https://img.shields.io/badge/RoBERTa-Embeddings-orange?style=flat-square)
@@ -98,7 +98,7 @@ This project is the basis of a peer-reviewed IEEE paper:
 
 **"A Hybrid Semantic-Structural Approach for Fair and Accurate 
 Automated Resume Screening"**  
-IEEE ICCCA 2025 — https://ieeexplore.ieee.org/document/11211694
+IEEE ICCCA 2025 — https://ieeexplore.ieee.org/document/11325535
 
 ## Author
 
